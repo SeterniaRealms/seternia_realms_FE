@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 91" width="352" height="91">
+	<title>border-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h352v91h-352zm15 11c0 3.87-3.13 7-7 7h-6v51h6c3.87 0 7 3.13 7 7v9l322 3v-9c0-3.87 3.13-7 7-7h6v-54h-6c-3.87 0-7-3.13-7-7v-9h-322z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #acadb2 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m339 0v11c0 2.8 2.2 5 5 5h8v58h-8c-2.8 0-5 2.2-5 5v11h-2l-322-3h-2v-11c0-2.8-2.2-5-5-5h-8v-55h8c2.8 0 5-2.2 5-5v-11h2 322zm-4 79c0-5 4-9 9-9h4v-50h-4c-5 0-9-4-9-9v-7h-318v7c0 5-4 9-9 9h-4v47h4c5 0 9 4 9 9v7l318 3zm2 0h-2zm7-7v-2zm-329 4h-2zm322-65h2zm-322 0h-2z"/>
+	</g>
+</svg>
